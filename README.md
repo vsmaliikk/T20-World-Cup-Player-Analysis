@@ -4,10 +4,10 @@ This project focuses on analyzing T20 cricket player performance data to derive 
 
 PROJECT STRUCTURE :: 
 Data: This folder contains the raw T20 cricket player data sourced from reputable cricket databases or APIs.
-Notebooks: This folder contains Jupyter notebooks used for data cleaning, analysis, and visualization.
-Reports: This folder contains reports summarizing the findings, player rankings, and performance evaluations.
-Scripts: This folder contains any scripts used for data processing, scraping, or automation.
-Documentation: This folder contains additional documentation related to the project, such as data dictionaries, API documentation, or methodology descriptions.
+/Notebooks: This folder contains Jupyter notebooks used for data cleaning, analysis, and visualization.
+/Reports: This folder contains reports summarizing the findings, player rankings, and performance evaluations.
+/Scripts: This folder contains any scripts used for data processing, scraping, or automation.
+/Documentation: This folder contains additional documentation related to the project, such as data dictionaries, API documentation, or methodology descriptions.
 
 DATA COLLECTION :: 
 Data collection involves gathering player statistics from T20 cricket leagues(  and international matches. This may include batting, bowling, fielding, and overall performance metrics.
